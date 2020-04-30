@@ -6,3 +6,4 @@ Pix is the new public service, created to meet this societal challenge. Its miss
 
 As part of the CMI ISI programming project, we are going to propose several visualizations of data concerning the grades obtained by students in the first year of the science and technology college of the University of Bordeaux, class of 2018/2019.
 
+Project is currently live at https://zeck.pythonanywhere.com
